@@ -1,4 +1,4 @@
-# geoffrey-zheng.github.io
+# Geoffrey Zheng
 
 Hello there! I'm Geoffrey, and I'm a Ph.D. candidate in physics at the University of Chicago.
 
