@@ -16,7 +16,7 @@ Previously, during my undergraduate studies, I worked on research projects in fl
 
 I obtained my Bachelor of Arts degree (B.A.) in [Physics](https://phy.princeton.edu/) from [Princeton University](https://www.princeton.edu/) in June 2020. I also received a minor in [Engineering Physics](https://engineeringphysics.princeton.edu/) from Princeton in June 2020. I obtained my incidental (en route to Ph.D.) Master of Science degree (M.S.) from University of Chicago in June 2022.
 
-For more details of my college/university academics, see my curriculum vitae.
+For more details of my college/university academics, see my [curriculum vitae](https://geoffrey-zheng.github.io/vitae/GZ_University_CV_Latest.pdf).
 
 ## Miscellaneous Writings
 
