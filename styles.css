@@ -1,0 +1,45 @@
+body {
+    background-color: snow;
+    line-height: 1.4;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+h1 {
+    color: black;
+    text-align: center;
+    font-family: verdana;
+    font-size: 48px;
+}
+
+h2 {
+    color: forestgreen;
+    text-align: center;
+    font-family: verdana;
+    font-size: 36px;
+}
+
+h3 {
+    color: black;
+    font-family: verdana;
+    font-size: 28px;
+	text-align: left; 
+}
+
+h4 {
+    color: black;
+    font-family: verdana;
+    font-size: 20px;
+	text-align: left; 
+}
+  
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+ul {
+    font-family: verdana;
+    font-size: 16px;
+}
