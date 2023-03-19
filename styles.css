@@ -1,7 +1,7 @@
 body {
     background-color: snow;
-    line-height: 1.4;
-    width: 70%;
+    line-height: 1.7;
+    width: 66%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -39,15 +39,18 @@ p {
     font-size: 20px;
 }
 
-ul {
+ul li{
     font-family: verdana;
-    font-size: 16px;
+    margin-bottom: 10px; 
 }
 
 .topnav {
     overflow: hidden;
     background-color: #333;
     font-family: verdana;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 66%; /* same width as body */
 }
   
 .topnav a {
@@ -65,6 +68,11 @@ ul {
 }
   
 .topnav a.active {
-    background-color: #04AA6D;
+    background-color: forestgreen;
     color: white;
+}
+
+/* Main content */
+.main {
+    margin-top: 70px;
 }
