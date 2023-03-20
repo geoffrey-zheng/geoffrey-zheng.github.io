@@ -1,9 +1,6 @@
 body {
     background-color: snow;
     line-height: 1.7;
-    width: 66%;
-    margin-left: auto;
-    margin-right: auto;
 }
   
 h1 {
@@ -50,11 +47,11 @@ ul li{
     font-family: verdana;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
-    width: 66%; /* same width as body */
+    width: 100%; /* fill out full width */
 }
   
 .topnav a {
-    float: left;
+    float: right;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
@@ -68,6 +65,7 @@ ul li{
 }
   
 .topnav a.active {
+    float: left;
     background-color: forestgreen;
     color: white;
 }
@@ -75,4 +73,7 @@ ul li{
 /* Main content */
 .main {
     margin-top: 70px;
+    width: 66%;
+    margin-left: auto;
+    margin-right: auto;
 }
