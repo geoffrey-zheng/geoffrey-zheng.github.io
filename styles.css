@@ -1,0 +1,79 @@
+body {
+    background-color: snow;
+    line-height: 1.7;
+}
+  
+h1 {
+    color: black;
+    text-align: center;
+    font-family: verdana;
+    font-size: 48px;
+}
+
+h2 {
+    color: forestgreen;
+    text-align: center;
+    font-family: verdana;
+    font-size: 36px;
+}
+
+h3 {
+    color: black;
+    font-family: verdana;
+    font-size: 28px;
+	text-align: left; 
+}
+
+h4 {
+    color: black;
+    font-family: verdana;
+    font-size: 20px;
+	text-align: left; 
+}
+  
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+ul li{
+    font-family: verdana;
+    margin-bottom: 10px; 
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    font-family: verdana;
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+}
+  
+.topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+.topnav a.active {
+    float: left;
+    background-color: forestgreen;
+    color: white;
+}
+
+/* Main content */
+.main {
+    margin-top: 70px;
+    width: 66%;
+    margin-left: auto;
+    margin-right: auto;
+}
