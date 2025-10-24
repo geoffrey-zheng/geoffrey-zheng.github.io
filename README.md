@@ -1,2 +1,2 @@
 # geoffrey-zheng.github.io
-Academic personal website with PhD work
+Personal academic website of Geoffrey Zheng, PhD candidate in Physics at University of Chicago.
